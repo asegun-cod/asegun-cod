@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 Oluwasegun is an MSc data Science student at Nottingham Trent University, in the Department of Science and Technology. 
 
-He received his Bachelors Degree in Environmental Science in his home-country, Nigeria, and he first Masters Degree in Energy and Environmental Mgt in the UK. He got into the data analytics field after a 3 month internship as a carbon accounting intern and using data at scale to inform data-driven decisions.
+He received his Bachelors Degree in Environmental Science in his home-country, Nigeria, and his first Masters Degree in Energy and Environmental Mgt in the UK. He got into the data analytics field after a 3 month internship as a carbon accounting intern where he used data analytics at scale to inform data-driven decisions.
 
-He has about 2 years of self learning and professional experience in Data Wrangling, Natural Language Processing (NLP), Deep Learning (DL) and Forecasting.
+He has about 3 years of self learning and over a year of professional experience in Data Wrangling, Natural Language Processing (NLP), Deep Learning (DL) and Forecasting.
 
 He is currently working as a Data Science Intern, at Nottinghamshire Healthcare NHS Foundation Trust.
 
