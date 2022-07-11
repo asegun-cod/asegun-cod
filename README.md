@@ -26,8 +26,8 @@ He received his Bachelors Degree in Environmental Science from his home-country,
 
 He has about 3 years of self learning and over a year of professional experience in Data Wrangling, Natural Language Processing (NLP), Deep Learning (DL) and Forecasting.
 
-He is currently working as a Data Science Intern, at Nottinghamshire Healthcare NHS Foundation Trust.
+He was formally a Data Science Intern, at Nottinghamshire Healthcare NHS Foundation Trust. And Currently work as Data Quality Analyst at Wastepack Group.
 
-**Competencies:** *data science, machine learning, deep learning, NLP, PyTorch, Python, R. SQL*
+**Competencies:** *data science, machine learning, deep learning, NLP, PyTorch, Python, R, Excel, SQL*
 
 <br>
